@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#D6083B</color>
+    <color name="primary_dark_color">#106470</color>
+    <color name="tan_background">#FFFFFF</color>
+    <color name="category_colleges">#FFFFFF</color>
+    <color name="category_cafes">#FFFFFF</color>
+    <color name="category_restaurants">#FFFFFF</color>
+    <color name="category_shopping">#FFFFFF</color>
+</resources>

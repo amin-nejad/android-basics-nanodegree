@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleBooksAPI</string>
+    <string name="nothing_found">No books found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_search_request">No search request.</string>
+    <string name="search_hint">Search</string>
+    <string name="button_text">Go</string>
+</resources>

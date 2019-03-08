@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Postify</string>
+    <string name="library">Library</string>
+    <string name="payment">Payment</string>
+    <string name="home">Home</string>
+    <string name="nowplaying">Now Playing</string>
+
+    <string name="paymenttext">
+    This is the payment activity. Here, users will be able to purchase new music which will end up in their library.
+
+    One way to do this would be to make use of the PayPal Android SDK which can be found on github. Users would simply login using their paypal account and agree to a single payment.
+    </string>
+    <string name="hometext">
+    This is the home screen where users will be taken to when first opening the app. It will contain a variety of different content such as recently played music or music from similar artists.
+    </string>
+    <string name="nowplayingtext">
+    This is the screen that will show what music is currently being played. It will also allow the user to pause, skip tracks, etc.
+    </string>
+    <string name="librarytext">
+    This will contain the user\'s full music library including songs they have saved on their device as well songs purchased through the app. The library can be filtered by genre, artist, etc.
+    </string>
+</resources>
